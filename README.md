@@ -166,16 +166,6 @@ Trabajo sobre sistemas empresariales con lógica funcional compleja en Oracle Fo
 - Inglés: B1
 
 ---
-## Estadísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferdinando192&show_icons=true&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdinando192&layout=compact&hide_border=true" alt="Top Langs" />
-
-</div>
-
----
 
 ## Contacto
 
