@@ -171,8 +171,8 @@ Trabajo sobre sistemas empresariales con lógica funcional compleja en Oracle Fo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" alt="Top Langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferdinando192&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdinando192&layout=compact&hide_border=true" alt="Top Langs" />
 
 </div>
 
