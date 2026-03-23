@@ -2,19 +2,19 @@
 
 # Ferdinando Santamaría Mora
 
-### Ingeniero en Sistemas · Analista de Sistemas · Desarrollo de software empresarial
+### Ingeniero en Sistemas · Analista de Sistemas · Software empresarial
 
-Actualmente trabajo en **Clínica Bíblica, Costa Rica**, enfocado en análisis, mantenimiento y evolución de sistemas empresariales, con experiencia en **Oracle, Forms, Reports, PL/SQL** y desarrollo web moderno.
+Actualmente trabajo en **Hospital Clínica Bíblica, Costa Rica**, enfocado en análisis, soporte y evolución de sistemas empresariales con experiencia en **Oracle, Oracle Forms, Oracle Reports, PL/SQL, .NET y APIs**.
 
 <p>
   <a href="https://github.com/TU_USUARIO">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Profesional-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ferdinando-santamaria">
+    <img src="https://img.shields.io/badge/LinkedIn-Ferdinando%20Santamar%C3%ADa-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/Correo-Contacto-EA4335?style=for-the-badge&logo=gmail" alt="Correo" />
+  <a href="mailto:fsantamaria192@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-fsantamaria192%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Correo" />
   </a>
 </p>
 
@@ -24,17 +24,41 @@ Actualmente trabajo en **Clínica Bíblica, Costa Rica**, enfocado en análisis,
 
 ## Sobre mí
 
-Soy **Ingeniero en Sistemas** con enfoque en desarrollo de software empresarial, automatización de procesos y construcción de plataformas administrativas y operativas.
+Soy **Ingeniero en Sistemas de Computación** con experiencia en desarrollo de software empresarial, mantenimiento evolutivo, análisis técnico y mejora de procesos.
 
-Tengo experiencia tanto en **sistemas heredados corporativos** como en **soluciones web modernas**, trabajando con lógica de negocio real, mantenimiento evolutivo, análisis técnico y mejora de procesos.
+He trabajado tanto en **soluciones web modernas** como en **entornos corporativos con Oracle**, participando en soporte, corrección de incidencias, construcción de funcionalidades y evolución de sistemas existentes.
 
-### En lo que más aporto
-- Desarrollo de sistemas administrativos y operativos
-- Backend con Laravel y modelado de reglas de negocio
-- Oracle Forms, Reports y PL/SQL en entornos corporativos
-- Integración de procesos, validaciones y consultas complejas
-- Arquitectura multiempresa, inventario, producción y trazabilidad
-- Refactorización y mejora de software existente
+Mi enfoque está en crear software útil, mantenible y alineado con procesos reales del negocio.
+
+---
+
+## Experiencia actual
+
+### Analista de Sistemas y Desarrollador Oracle · Hospital Clínica Bíblica
+Trabajo en soporte, análisis y mejora de sistemas empresariales, incluyendo:
+
+- modificaciones y corrección de datos
+- optimización de consultas
+- generación de reportes
+- resolución de errores en **Oracle Forms/Reports**
+- mejora de pantallas y procesos internos
+- desarrollo y mantenimiento de aplicaciones web en **.NET**
+- creación y consumo de **APIs REST**
+- trabajo con **Scrum**, **TFS**, **Entity Framework**, **Swagger** y **Azure DevOps**
+
+---
+
+## Experiencia previa
+
+### PricewaterhouseCoopers (PwC) · Desarrollador FullStack
+Participé en desarrollo de aplicaciones web empresariales con **PHP, Laravel y Doctrine**, incluyendo soluciones como:
+
+- sistema de evaluación de desempeño 360
+- plataforma de planilla
+- migración y modernización de aplicaciones Oracle Forms
+
+### Grupo CS · Desarrollador y Analista de Sistemas
+Trabajé en resolución de incidentes técnicos, análisis de causas raíz y atención operativa mediante Service Desk, además de análisis relacionados con procesos de préstamos.
 
 ---
 
@@ -46,6 +70,8 @@ Tengo experiencia tanto en **sistemas heredados corporativos** como en **solucio
   <img src="https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=flat-square" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20REST-005571?style=flat-square" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -56,104 +82,90 @@ Tengo experiencia tanto en **sistemas heredados corporativos** como en **solucio
   <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Inertia-9553E9?style=flat-square" />
   <img src="https://img.shields.io/badge/Blade-F55247?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### Infraestructura y herramientas
+### Herramientas y metodología
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/TFS-002050?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
-
----
-
-## Experiencia actual
-
-### Analista de Sistemas · Clínica Bíblica · Costa Rica
-Trabajo en análisis, soporte y evolución de sistemas empresariales, con participación en procesos y soluciones donde intervienen tecnologías como:
-
-- Oracle Database
-- Oracle Forms
-- Oracle Reports
-- PL/SQL
-- lógica funcional y técnica de negocio
-- mantenimiento correctivo y evolutivo
-- análisis y resolución de incidencias en ambientes corporativos
 
 ---
 
 ## Proyectos destacados
 
-> Varios de mis proyectos son privados. Por esa razón presento una descripción técnica y funcional de su alcance, sin exponer código ni información sensible.
+> Muchos de mis proyectos son privados. Aquí presento su alcance técnico y funcional sin exponer código ni información sensible.
 
 ### Fermaster Equipment Control
-Sistema multiempresa para control operativo de maquinaria y procesos productivos.
-
-**Incluye:**
-- gestión de máquinas y categorías
-- producción individual y grupal
-- control de combustible
-- inventario técnico de componentes
-- instalación y desgaste de piezas
-- órdenes de compra
-- roles y permisos
-- dashboards y alertas
+Sistema multiempresa para control operativo de maquinaria, producción, combustible, inventario técnico, órdenes de compra, dashboards y alertas.
 
 **Stack:** Laravel, Vue 3, Inertia, PostgreSQL, Tailwind, PWA
 
----
+### Plataforma de venta de tickets y gestión de eventos
+Sistema orientado a la venta de entradas para eventos, con enfoque en experiencia de compra, control de disponibilidad y flujo transaccional.
+
+**Incluye:**
+- catálogo de eventos
+- selección de entradas o espacios
+- bloqueo temporal de cupos durante el proceso de compra
+- control de expiración de reservas
+- flujo de compra directa sin carrito tradicional
+- generación de código QR para acceso al evento
+- base para validación de entradas y escaneo
+- enfoque en rendimiento para escenarios de alta concurrencia
+
+**Stack:** Next.js, NestJS, PostgreSQL, Prisma, Redis, arquitectura monorepo
 
 ### Sistema de citas y reservas
-Plataforma para administración de citas, horarios y flujo operativo.
+Plataforma para gestión de citas, disponibilidad, flujo administrativo y experiencia de usuario.
 
-**Enfoque:**
-- agenda y disponibilidad
-- validaciones administrativas
-- experiencia de usuario clara
-- base para procesos de confirmación y seguimiento
-
-**Stack:** Laravel, Blade/Vue, Tailwind, JavaScript
-
----
+**Stack:** Laravel, Blade / Vue, JavaScript, Tailwind
 
 ### Plataforma administrativa de servicios
-Sistema web con área pública y panel administrativo para gestión de servicios y contenido.
+Sistema con área pública y panel administrativo para gestión de servicios, clases, contenido visual y estructura modular.
 
-**Incluye:**
-- CRUD administrativo
-- organización por clases o categorías
-- banners y contenido visual configurable
-- mejoras de UI/UX y estructura modular
-
-**Stack:** Laravel, Blade, Tailwind, Bootstrap, Vite
-
----
+**Stack:** Laravel, Blade, Bootstrap, Tailwind, Vite
 
 ### Automatización y mantenimiento en Oracle
-Trabajo técnico sobre lógica funcional empresarial en entornos Oracle.
-
-**Incluye:**
-- validaciones en Forms
-- consultas y procedimientos PL/SQL
-- mantenimiento correctivo
-- análisis de errores
-- mejora de procesos existentes
+Trabajo sobre sistemas empresariales con lógica funcional compleja en Oracle Forms, Reports y PL/SQL, orientado a estabilidad, mejora de procesos y soporte técnico.
 
 ---
 
-## En qué me enfoco
+## Fortalezas profesionales
 
-- Software empresarial útil y mantenible
-- Soluciones administrativas con lógica de negocio real
-- Integración entre operación, datos y procesos
-- Arquitectura clara antes que complejidad innecesaria
-- Mejora continua de sistemas existentes
+- desarrollo de software empresarial
+- análisis y resolución de incidencias
+- mejora de sistemas existentes
+- Oracle Forms, Reports y PL/SQL
+- backend con Laravel y .NET
+- diseño e integración de APIs
+- trabajo con reglas de negocio reales
+- adaptación a entornos corporativos y operativos
+
+---
+
+## Formación y certificaciones
+
+- **Bachillerato en Ingeniería en Sistemas de Computación** · Universidad Fidélitas
+- **Scrum Fundamentals Certification**
+- **Udemy:** Desarrollo de aplicaciones web
+- **Cisco Networking Modules**
+
+---
+
+## Idiomas
+
+- Español: C2
+- Inglés: B1
 
 ---
 
@@ -162,7 +174,6 @@ Trabajo técnico sobre lógica funcional empresarial en entornos Oracle.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" alt="Top Langs" />
 
 </div>
@@ -171,14 +182,13 @@ Trabajo técnico sobre lógica funcional empresarial en entornos Oracle.
 
 ## Contacto
 
-- LinkedIn: [TU_LINKEDIN](https://www.linkedin.com/in/TU_LINKEDIN)
-- Correo: [TU_CORREO](mailto:TU_CORREO)
-- GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)
+- LinkedIn: [linkedin.com/in/ferdinando-santamaria](https://www.linkedin.com/in/ferdinando-santamaria)
+- Correo: [fsantamaria192@gmail.com](mailto:fsantamaria192@gmail.com)
 
 ---
 
 <div align="center">
 
-_Construyendo soluciones empresariales con enfoque práctico, estructura sólida y lógica de negocio real._
+_Construyendo soluciones empresariales con enfoque práctico, lógica de negocio real y mejora continua._
 
 </div>
