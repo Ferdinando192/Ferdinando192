@@ -7,8 +7,8 @@
 Actualmente trabajo en **Hospital Clínica Bíblica, Costa Rica**, enfocado en análisis, soporte y evolución de sistemas empresariales con experiencia en **Oracle, Oracle Forms, Oracle Reports, PL/SQL, .NET y APIs**.
 
 <p>
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/Ferdinando192">
+    <img src="[https://img.shields.io/badge/GitHub-Perfil-181717](https://github.com/Ferdinando192)?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/ferdinando-santamaria">
     <img src="https://img.shields.io/badge/LinkedIn-Ferdinando%20Santamar%C3%ADa-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
